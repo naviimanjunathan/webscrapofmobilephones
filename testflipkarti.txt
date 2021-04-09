@@ -1,0 +1,335 @@
+Product Number = 1
+
+Product  = realme C11 (Rich Grey, 32 GB)
+
+Product Price = 8999
+
+description  = 2 GB RAM | 32 GB ROM | Expandable Upto 256 GB
+16.51 cm (6.5 inch) HD+ Display
+13MP + 2MP | 5MP Front Camera
+5000 mAh Battery
+Mediatek Helio G35 Processor
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
+Product Number = 2
+
+Product  = realme C11 (Rich Green, 32 GB)
+
+Product Price = 8999
+
+description  = 2 GB RAM | 32 GB ROM | Expandable Upto 256 GB
+16.51 cm (6.5 inch) HD+ Display
+13MP + 2MP | 5MP Front Camera
+5000 mAh Battery
+Mediatek Helio G35 Processor
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
+Product Number = 3
+
+Product  = REDMI 9i (Sea Blue, 64 GB)
+
+Product Price = 9999
+
+description  = 4 GB RAM | 64 GB ROM | Expandable Upto 512 GB
+16.59 cm (6.53 inch) HD+ Display
+13MP Rear Camera | 5MP Front Camera
+5000 mAh Lithium Polymer Battery
+MediaTek Helio G25 Processor
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
+Product Number = 4
+
+Product  = I Kall K450 (Gold, 16 GB)
+
+Product Price = 3999
+
+description  = 2 GB RAM | 16 GB ROM
+13.97 cm (5.5 inch) Display
+5MP Rear Camera | 2MP Front Camera
+2500 mAh Battery
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
+Product Number = 5
+
+Product  = POCO M3 (Power Black, 128 GB)
+
+Product Price = 14999
+
+description  = 6 GB RAM | 128 GB ROM | Expandable Upto 512 GB
+16.59 cm (6.53 inch) Full HD+ Display
+48MP + 2MP + 2MP | 8MP Front Camera
+6000 mAh Lithium-ion Polymer Battery
+Qualcomm Snapdragon 662 Processor
+One Year Warranty for Handset, 6 Months for Accessories
+
+
+Product Number = 6
+
+Product  = realme C12 (Power Silver, 32 GB)
+
+Product Price = 10999
+
+description  = 3 GB RAM | 32 GB ROM | Expandable Upto 256 GB
+16.56 cm (6.52 inch) HD+ Display
+13MP + 2MP + 2MP | 5MP Front Camera
+6000 mAh Lithium-ion Battery
+Mediatek Helio G35 Processor
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
+Product Number = 7
+
+Product  = realme C12 (Power Blue, 32 GB)
+
+Product Price = 10999
+
+description  = 3 GB RAM | 32 GB ROM | Expandable Upto 256 GB
+16.56 cm (6.52 inch) HD+ Display
+13MP + 2MP + 2MP | 5MP Front Camera
+6000 mAh Lithium-ion Battery
+Mediatek Helio G35 Processor
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
+Product Number = 8
+
+Product  = POCO M3 (Cool Blue, 64 GB)
+
+Product Price = 12999
+
+description  = 6 GB RAM | 64 GB ROM | Expandable Upto 512 GB
+16.59 cm (6.53 inch) Full HD+ Display
+48MP + 2MP + 2MP | 8MP Front Camera
+6000 mAh Lithium-ion Polymer Battery
+Qualcomm Snapdragon 662 Processor
+One Year Warranty for Handset, 6 Months for Accessories
+
+
+Product Number = 9
+
+Product  = Redmi 9 Prime (Space Blue, 64 GB)
+
+Product Price = 11999
+
+description  = 4 GB RAM | 64 GB ROM | Expandable Upto 512 GB
+16.59 cm (6.53 inch) Full HD+ Display
+13MP Rear Camera | 8MP Front Camera
+5020 mAh Battery
+MediaTek Helio G80 Processor
+1 Year Manufacturer Warranty
+
+
+Product Number = 10
+
+Product  = POCO M2 (Slate Blue, 64 GB)
+
+Product Price = 12999
+
+description  = 6 GB RAM | 64 GB ROM | Expandable Upto 512 GB
+16.59 cm (6.53 inch) Full HD+ Display
+13MP + 8MP + 5MP + 2MP | 8MP Front Camera
+5000 mAh Lithium Polymer Battery
+MediaTek Helio G80 Processor
+1 Year for Handset, 6 Months for Accessories
+
+
+Product Number = 11
+
+Product  = realme Narzo 30A (Laser Black, 32 GB)
+
+Product Price = 9999
+
+description  = 3 GB RAM | 32 GB ROM | Expandable Upto 256 GB
+16.54 cm (6.51 inch) HD+ Display
+13MP + 2MP | 8MP Front Camera
+6000 mAh Battery
+MediaTek Helio G85 Processor
+1 Year Warranty for Mobile and 6 Months for Accessories
+
+
+Product Number = 12
+
+Product  = realme Narzo 30A (Laser Blue, 32 GB)
+
+Product Price = 9999
+
+description  = 3 GB RAM | 32 GB ROM | Expandable Upto 256 GB
+16.54 cm (6.51 inch) HD+ Display
+13MP + 2MP | 8MP Front Camera
+6000 mAh Battery
+MediaTek Helio G85 Processor
+1 Year Warranty for Mobile and 6 Months for Accessories
+
+
+Product Number = 13
+
+Product  = realme Narzo 30A (Laser Black, 64 GB)
+
+Product Price = 10999
+
+description  = 4 GB RAM | 64 GB ROM | Expandable Upto 256 GB
+16.54 cm (6.51 inch) HD+ Display
+13MP + 2MP | 8MP Front Camera
+6000 mAh Battery
+MediaTek Helio G85 Processor
+1 Year Warranty for Mobile and 6 Months for Accessories
+
+
+Product Number = 14
+
+Product  = realme Narzo 30A (Laser Blue, 64 GB)
+
+Product Price = 10999
+
+description  = 4 GB RAM | 64 GB ROM | Expandable Upto 256 GB
+16.54 cm (6.51 inch) HD+ Display
+13MP + 2MP | 8MP Front Camera
+6000 mAh Battery
+MediaTek Helio G85 Processor
+1 Year Warranty for Mobile and 6 Months for Accessories
+
+
+Product Number = 15
+
+Product  = REDMI 9i (Midnight Black, 64 GB)
+
+Product Price = 9999
+
+description  = 4 GB RAM | 64 GB ROM | Expandable Upto 512 GB
+16.59 cm (6.53 inch) HD+ Display
+13MP Rear Camera | 5MP Front Camera
+5000 mAh Lithium Polymer Battery
+MediaTek Helio G25 Processor
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
+Product Number = 16
+
+Product  = REDMI 9i (Nature Green, 64 GB)
+
+Product Price = 9999
+
+description  = 4 GB RAM | 64 GB ROM | Expandable Upto 512 GB
+16.59 cm (6.53 inch) HD+ Display
+13MP Rear Camera | 5MP Front Camera
+5000 mAh Lithium Polymer Battery
+MediaTek Helio G25 Processor
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
+Product Number = 17
+
+Product  = POCO C3 (Lime Green, 32 GB)
+
+Product Price = 9999
+
+description  = 3 GB RAM | 32 GB ROM | Expandable Upto 512 GB
+16.59 cm (6.53 inch) HD+ Display
+13MP + 2MP + 2MP | 5MP Front Camera
+5000 mAh Li-ion Polymer Battery
+Mediatek Helio G35 Processor
+1 Year on Handset and 6 Months on Accessories
+
+
+Product Number = 18
+
+Product  = POCO X3 Pro (Graphite Black, 128 GB)
+
+Product Price = 23999
+
+description  = 6 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+16.94 cm (6.67 inch) Full HD+ Display
+48MP + 8MP + 2MP + 2MP | 20MP Front Camera
+5160 mAh Lithium-ion Polymer Battery
+Qualcomm Snapdragon 860 Processor
+One Year Warranty for Handset, 6 Months for Accessories
+
+
+Product Number = 19
+
+Product  = POCO M3 (Power Black, 64 GB)
+
+Product Price = 12999
+
+description  = 6 GB RAM | 64 GB ROM | Expandable Upto 512 GB
+16.59 cm (6.53 inch) Full HD+ Display
+48MP + 2MP + 2MP | 8MP Front Camera
+6000 mAh Lithium-ion Polymer Battery
+Qualcomm Snapdragon 662 Processor
+One Year Warranty for Handset, 6 Months for Accessories
+
+
+Product Number = 20
+
+Product  = realme Narzo 20A (Glory Silver, 64 GB)
+
+Product Price = 11999
+
+description  = 4 GB RAM | 64 GB ROM | Expandable Upto 256 GB
+16.51 cm (6.5 inch) HD+ Display
+12MP + 2MP + 2MP | 8MP Front Camera
+5000 mAh Lithium-ion Battery
+Qualcomm Snapdragon 665 Processor
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
+Product Number = 21
+
+Product  = POCO X3 Pro (Steel Blue, 128 GB)
+
+Product Price = 23999
+
+description  = 6 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+16.94 cm (6.67 inch) Full HD+ Display
+48MP + 8MP + 2MP + 2MP | 20MP Front Camera
+5160 mAh Lithium-ion Polymer Battery
+Qualcomm Snapdragon 860 Processor
+One Year Warranty for Handset, 6 Months for Accessories
+
+
+Product Number = 22
+
+Product  = realme 7 (Mist Blue, 128 GB)
+
+Product Price = 20999
+
+description  = 8 GB RAM | 128 GB ROM | Expandable Upto 256 GB
+16.51 cm (6.5 inch) Full HD+ Display
+64MP + 8MP + 2MP + 2MP | 16MP Front Camera
+5000 mAh Lithium-ion Battery
+MediaTek Helio G95 Processor
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
+Product Number = 23
+
+Product  = realme 7 (Mist Blue, 64 GB)
+
+Product Price = 17999
+
+description  = 6 GB RAM | 64 GB ROM | Expandable Upto 256 GB
+16.51 cm (6.5 inch) Full HD+ Display
+64MP + 8MP + 2MP + 2MP | 16MP Front Camera
+5000 mAh Lithium-ion Battery
+MediaTek Helio G95 Processor
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
+Product Number = 24
+
+Product  = realme 7 (Mist White, 64 GB)
+
+Product Price = 17999
+
+description  = 6 GB RAM | 64 GB ROM | Expandable Upto 256 GB
+16.51 cm (6.5 inch) Full HD+ Display
+64MP + 8MP + 2MP + 2MP | 16MP Front Camera
+5000 mAh Lithium-ion Battery
+MediaTek Helio G95 Processor
+Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories
+
+
